@@ -8,7 +8,7 @@ AliceScriptの言語設計リポジトリへようこそ。このリポジトリ
 - AliceScriptの実装である[Losetta](https://github.com/WSOFT-Project/Losetta)リポジトリもご覧ください。
 
 > [!NOTE]
-> Alice3.0までの新機能および不具合に関するIssueは、[Losetta]([https://github.com/WSOFT-Project/Losetta](https://github.com/WSOFT-Project/Losetta/issues))リポジトリにあります。
+> Alice3.0までの新機能および不具合に関するIssueは、[Losetta](https://github.com/WSOFT-Project/Losetta/issues)リポジトリにあります。
 > 合わせてご覧ください。
 
 ### 新機能の提案
