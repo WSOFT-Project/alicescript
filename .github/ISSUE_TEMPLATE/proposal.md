@@ -4,7 +4,6 @@ about: Proposal for a new AliceScript specification or a new API for SAIM
 title: "[PROPOSE]:Feature Name"
 labels: enhancement
 assignees: ''
-
 ---
 
 <!--
@@ -42,6 +41,7 @@ Also summarize why the precedent was rejected or passed over if it was.
 
 ## Unconfined design
 
-<!--
-Detailed specification design yet to be finalized
--->
+<!-- Detailed specification design yet to be finalized -->
+
+## Discussion
+<!-- Please post a link to the Disucussion and other minutes that were involved in deciding on this feature. -->
